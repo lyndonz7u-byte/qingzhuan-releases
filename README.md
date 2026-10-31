@@ -10,7 +10,7 @@ https://api.github.com/repos/lyndonz7u-byte/qingzhuan-releases/releases/latest
 
 ## 下载
 
-到 Releases 页面下载最新的 `qingzhuan-1.1.0.apk`。
+到 Releases 页面下载最新的 `qingzhuan-1.1.1.apk`。
 
 - 只支持 arm64-v8a（绝大多数现役安卓机）。
 - 覆盖安装不会清数据，签名与旧版一致。
